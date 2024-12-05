@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Test title 1",
+        "description": "Test description 1",
+        "category": "Test category 1",
+        "due_date": "13.04.2024",
+        "priority": "Низкий",
+        "status": "Не выполнена"
+    },
+    {
+        "id": 2,
+        "title": "Test title 2",
+        "description": "Test description 2",
+        "category": "Test category 2",
+        "due_date": "02.01.2024",
+        "priority": "Высокий",
+        "status": "Не выполнена"
+    },
+    {
+        "id": 3,
+        "title": "Test title 3",
+        "description": "Test description 3",
+        "category": "Test category 3",
+        "due_date": "02.06.2024",
+        "priority": "Высокий",
+        "status": "Выполнена"
+    },
+    {
+        "id": 4,
+        "title": "Test title 4",
+        "description": "Test description 4",
+        "category": "Test category 4",
+        "due_date": "24.06.2024",
+        "priority": "Высокий",
+        "status": "Не выполнена"
+    }
+]
